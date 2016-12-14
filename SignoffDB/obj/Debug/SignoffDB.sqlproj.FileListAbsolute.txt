@@ -1,0 +1,9 @@
+C:\Users\larsg\Documents\Visual Studio 2015\Projects\Signoff_tool\Signoff Tool 2\SignoffDB\SignoffDB\bin\Debug\SignoffDB.dacpac
+C:\Users\larsg\Documents\Visual Studio 2015\Projects\Signoff_tool\Signoff Tool 2\SignoffDB\SignoffDB\bin\Debug\SignoffDB.dll
+C:\Users\larsg\Documents\Visual Studio 2015\Projects\Signoff_tool\Signoff Tool 2\SignoffDB\SignoffDB\bin\Debug\SignoffDB.pdb
+C:\Users\larsg\Documents\Visual Studio 2015\Projects\Signoff_tool\Signoff Tool 2\SignoffDB\SignoffDB\obj\Debug\Model.xml
+C:\Users\larsg\Documents\Visual Studio 2015\Projects\Signoff_tool\Signoff Tool 2\SignoffDB\SignoffDB\obj\Debug\refactor.xml
+C:\Users\larsg\Documents\Visual Studio 2015\Projects\Signoff_tool\Signoff Tool 2\SignoffDB\SignoffDB\obj\Debug\postdeploy.sql
+C:\Users\larsg\Documents\Visual Studio 2015\Projects\Signoff_tool\Signoff Tool 2\SignoffDB\SignoffDB\obj\Debug\predeploy.sql
+C:\Users\larsg\Documents\Visual Studio 2015\Projects\Signoff_tool\Signoff Tool 2\SignoffDB\SignoffDB\obj\Debug\SignoffDB.dll
+C:\Users\larsg\Documents\Visual Studio 2015\Projects\Signoff_tool\Signoff Tool 2\SignoffDB\SignoffDB\obj\Debug\SignoffDB.pdb

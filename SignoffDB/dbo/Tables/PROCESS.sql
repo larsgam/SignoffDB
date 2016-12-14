@@ -1,0 +1,10 @@
+﻿CREATE TABLE [dbo].[PROCESS] (
+    [PROCESS_ID]         INT            NOT NULL,
+    [PROCESS_NAME]       NVARCHAR (100) NOT NULL,
+    [PROCESS_SHORT_NAME] NVARCHAR (20)  NOT NULL,
+    [FREQUENCY]          VARCHAR (1)    NOT NULL,
+    [START_DATE]         DATE           NOT NULL,
+    [END_DATE]           DATE           NOT NULL,
+    CONSTRAINT [pk_process] PRIMARY KEY CLUSTERED ([PROCESS_ID] ASC, [START_DATE] ASC)
+);
+
